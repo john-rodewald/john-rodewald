@@ -2,7 +2,7 @@
 
 ### Hi, I'm John!
 
-I work with F# daily and help organise regular Nix meetups in Zürich.
+I work with F# daily and help organise regular Nix and Haskell meetups in Zürich.
 
 Interested in all things functional programming.
 
