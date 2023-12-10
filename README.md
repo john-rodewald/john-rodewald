@@ -6,4 +6,4 @@ I work with F# daily and help organise regular Nix and Haskell meetups in Züric
 
 Interested in all things functional programming.
 
-Get in touch here, via email, or on Matrix (`@john-rodewald:nixos.dev`)!
+Get in touch here, via [email](mailto:jnrodewald99@gmail.com), or on [Matrix](https://matrix.to/#/@john-rodewald:nixos.dev)!
