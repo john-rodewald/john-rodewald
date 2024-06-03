@@ -1,4 +1,4 @@
-<img align="left" src="https://github.com/NixOS/nixos-artwork/raw/master/logo/nix-snowflake.svg" alt="drawing" width="200"/>
+<img align="left" src="https://raw.githubusercontent.com/NixOS/nixos-artwork/53ea652ec7d8af5d21fd2b79b6c49cb39078ddfb/logo/nix-snowflake-colours.svg" alt="drawing" width="200"/>
 
 ### Hi, I'm John!
 
